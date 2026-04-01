@@ -17,4 +17,4 @@ Sou um desenvolvedor Front-end movido pela curiosidade técnica e pelo desejo de
 
 ---
 
-> "O código é como humor. Quando você tem que explicar, é ruim." – Cory House
+> "Keep it Simple and stupid"
