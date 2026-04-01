@@ -11,11 +11,11 @@ Sou um desenvolvedor Front-end movido pela curiosidade técnica e pelo desejo de
 
 ## Tecnologias e Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwindcss,react,nextjs)](https://skillicons.dev)
 
 ## Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,insomnia)](https://skillicons.dev)
 
 ## GitHub Stats
 
