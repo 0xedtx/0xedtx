@@ -15,7 +15,7 @@ Sou um desenvolvedor Front-end movido pela curiosidade técnica e pelo desejo de
 
 ## Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,insomnia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,obsidian,notion)](https://skillicons.dev)
 
 ## GitHub Stats
 
