@@ -6,15 +6,14 @@ Sou um desenvolvedor Front-end movido pela curiosidade técnica e pelo desejo de
 - 📚 Estudando Node.js, desenvolvimento fullstack e cyber security
 ---
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=codevdu&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=codevdu&theme=radical)
+
 ### Tecnologias e Linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
----
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs)](https://skillicons.dev)
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=codevdu&show_icons=true&theme=radical)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=codevdu&layout=compact&theme=radical)
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=codevdu&layout=compact&theme=radical)
 ---
 
 > "Keep it Simple and stupid"
