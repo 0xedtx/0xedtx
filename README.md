@@ -1,19 +1,22 @@
-# Olá, eu sou o Eduardo! 👋
+# Hi, I'm Eduardo! 👋
 
-Sou um desenvolvedor Front-end movido pela curiosidade técnica e pelo desejo de entender como as coisas funcionam sob o capô. Além de utilizar tecnologias modernas como Next.js, dedico meus estudos à **Cyber Security**, buscando entender as ameaças que cercam o ecossistema web para construir aplicações mais resilientes. Meu foco é unir o melhor do design e performance com práticas de clean code, por isso venho me aventurando no **Back-end**, que considero a grande virada de para ingressar na Cyber segurança.
+I'm Full-Stack Developer specializing in high-performance ecosystems using scalable technologies and a cybersecurity enthusiast. I have experience in co-creating scalable technological solutions, ranging from complete platforms to systems focused on user experience.
 
-## Sobre Mim
-- Focado na transição para Full-stack e especialização em segurança de aplicações web
-- Aperfeiçoando habilidades em UI/UX
-- Sempre em busca de evolução pessoal e profissional
+My background combines refined design and performance with the rigor of secure coding, leveraging the back-end as a foundation for building resilient applications. With an innovative mindset and the use of agile methodologies, I focus on delivering code that not only works but also scales the business.
+
+## About me
+- Focused on cybersecurity
+- Clean code implementation
+- Striving for professional and personal growth
+- Studying development for highly scalable applications
 ---
 
 
-## Tecnologias e Linguagens
+## Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwindcss,react,nextjs)](https://skillicons.dev)
 
-## Ferramentas
+## DevTools
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,obsidian,notion)](https://skillicons.dev)
 
@@ -31,6 +34,3 @@ Sou um desenvolvedor Front-end movido pela curiosidade técnica e pelo desejo de
 </table>
 
 ---
-
-
-> "Keep it Simple and stupid"
