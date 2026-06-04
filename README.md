@@ -14,11 +14,11 @@ My background combines refined design and performance with the rigor of secure c
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,tailwindcss,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,tailwindcss,nodejs,express,nextjs)](https://skillicons.dev)
 
-## DevTools
+## Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma,obsidian,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,figma,obsidian,notion)](https://skillicons.dev)
 
 ## GitHub Stats
 
