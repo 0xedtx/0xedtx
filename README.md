@@ -14,7 +14,11 @@ My background combines refined design and performance with the rigor of secure c
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,tailwindcss,nodejs,express,nextjs)](https://skillicons.dev)
+### Frotend
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,tailwindcss,nextjs)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,jest,express,postgresql,prisma)](https://skillicons.dev)
 
 ## Tools
 
