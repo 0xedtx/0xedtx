@@ -4,18 +4,11 @@ I'm Full-Stack Developer specializing in high-performance ecosystems using scala
 
 My background combines refined design and performance with the rigor of secure coding, leveraging the back-end as a foundation for building resilient applications. With an innovative mindset and the use of agile methodologies, I focus on delivering code that not only works but also scales the business.
 
-## About me
-- Focused on cybersecurity
-- Clean code implementation
-- Striving for professional and personal growth
-- Studying development for highly scalable applications
----
-
 
 ## Technologies
 
 ### Frotend
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,vite,tailwindcss,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwindcss,nextjs,vue,angular)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,jest,express,postgresql,prisma)](https://skillicons.dev)
