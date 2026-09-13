@@ -11,7 +11,7 @@ My background combines refined design and performance with the rigor of secure c
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwindcss,nextjs,vue,angular)](https://skillicons.dev)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,jest,express,postgresql,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,jest,express,postgresql,prisma)](https://skillicons.dev)
 
 ## Tools
 
