@@ -1,32 +1,40 @@
 # Hi, I'm Eduardo! 👋
 
-I'm Full-Stack Developer specializing in high-performance ecosystems using scalable technologies and a cybersecurity enthusiast. I have experience in co-creating scalable technological solutions, ranging from complete platforms to systems focused on user experience.
+### Full-Stack Developer | Cybersecurity Enthusiast
 
-My background combines refined design and performance with the rigor of secure coding, leveraging the back-end as a foundation for building resilient applications. With an innovative mindset and the use of agile methodologies, I focus on delivering code that not only works but also scales the business.
+I build digital products and technology ecosystems with a focus on **performance, scalability, and security**. My experience includes developing complete solutions, from full platforms to systems centered on user experience.
 
+I combine attention to design and usability with a strong backend foundation and secure development practices. I also use agile methodologies to turn ideas into reliable products that can grow with the business.
 
-## Technologies
+## Technologies & Tools
 
-### Frotend
-![Skill Icons](https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,tailwindcss,nextjs,vuejs,angularjs,gsap,threejs&perline=12&radius=25)
+### Frontend
+
+![Frontend technologies](https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,tailwindcss,nextjs,vuejs,angularjs,gsap,threejs&perline=9&radius=25)
 
 ### Backend
-![Skill Icons](https://skills.syvixor.com/api/icons?i=nodejs,typescript,fastify,postgresql,prisma,nestjs,jest,redis&perline=12&radius=25)
+
+![Backend technologies](https://skills.syvixor.com/api/icons?i=nodejs,typescript,fastify,postgresql,prisma,nestjs,jest,redis&perline=8&radius=25)
 
 ### Tools
-![Skill Icons](https://skills.syvixor.com/api/icons?i=visualstudiocode,git,github,docker,codex,notion,figma,clickup&perline=12&radius=25)
+
+![Tools](https://skills.syvixor.com/api/icons?i=visualstudiocode,git,github,docker,codex,notion,figma,clickup&perline=8&radius=25)
 
 ## GitHub Stats
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=0xedtx&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api?username=0xedtx&show_icons=true&theme=radical"
+        alt="Eduardo's GitHub statistics"
+      />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=0xedtx&theme=radical" alt="GitHub Streak" />
+      <img
+        src="https://github-readme-stats-fast.vercel.app/api/streak?username=0xedtx&theme=radical"
+        alt="Eduardo's GitHub contribution streak"
+      />
     </td>
   </tr>
 </table>
-
----
