@@ -2,9 +2,11 @@
 
 ### Full-Stack Developer | Cybersecurity Enthusiast
 
-I build digital products and technology ecosystems with a focus on **performance, scalability, and security**. My experience includes developing complete solutions, from full platforms to systems centered on user experience.
+I build digital products and technology ecosystems with a focus on **performance, scalability, and security**. 
+My experience includes developing complete solutions, from full platforms to systems centered on user experience.
 
-I combine attention to design and usability with a strong backend foundation and secure development practices. I also use agile methodologies to turn ideas into reliable products that can grow with the business.
+I combine attention to design and usability with a strong backend foundation and secure development practices. 
+I also use agile methodologies to turn ideas into reliable products that can grow with the business.
 
 ## Technologies & Tools
 
