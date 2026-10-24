@@ -22,10 +22,10 @@ My background combines refined design and performance with the rigor of secure c
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api?username=codevdu&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=0xedtx&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=codevdu&theme=radical" alt="GitHub Streak" />
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=0xedtx&theme=radical" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
