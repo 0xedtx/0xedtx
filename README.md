@@ -8,14 +8,13 @@ My background combines refined design and performance with the rigor of secure c
 ## Technologies
 
 ### Frotend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwindcss,nextjs,vue,angular)](https://skillicons.dev)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,tailwindcss,nextjs,vuejs,angularjs,gsap,threejs&perline=12&radius=25)
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,jest,express,postgresql,prisma)](https://skillicons.dev)
+![Skill Icons](https://skills.syvixor.com/api/icons?i=nodejs,typescript,fastify,postgresql,prisma,nestjs,jest,redis&perline=12&radius=25)
 
-## Tools
-
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,docker,figma,obsidian,notion)](https://skillicons.dev)
+### Tools
+![Skill Icons](https://skills.syvixor.com/api/icons?i=visualstudiocode,git,github,docker,codex,notion,figma,clickup&perline=12&radius=25)
 
 ## GitHub Stats
 
