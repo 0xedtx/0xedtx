@@ -12,7 +12,7 @@ AI is part of my workflow as a tool for **development and ideation**. I use it t
 
 ### Frontend
 
-![Frontend technologies](https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,tailwindcss,nextjs,vuejs,angularjs,gsap,threejs&perline=9&radius=25)
+![Frontend technologies](https://skills.syvixor.com/api/icons?i=javascript,typescript,reactjs,tailwindcss,nextjs,angularjs,gsap,threejs&perline=9&radius=25)
 
 ### Backend
 
