@@ -18,6 +18,10 @@ AI is part of my workflow as a tool for **development and ideation**. I use it t
 
 ![Backend technologies](https://skills.syvixor.com/api/icons?i=nodejs,typescript,fastify,postgresql,prisma,nestjs,jest,redis&perline=8&radius=25)
 
+### Data Analytics
+
+![Skill Icons](https://skills.syvixor.com/api/icons?i=python,fastapi,postgresql,pandas,plotly,huggingface,pytorch&perline=12&radius=25)
+
 ### Tools
 
 ![Tools](https://skills.syvixor.com/api/icons?i=visualstudiocode,git,github,docker,codex,notion,figma,clickup&perline=8&radius=25)
