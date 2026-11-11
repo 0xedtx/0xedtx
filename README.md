@@ -20,7 +20,7 @@ AI is part of my workflow as a tool for **development and ideation**. I use it t
 
 ### Data Analytics
 
-![Data technologies](https://skills.syvixor.com/api/icons?i=python,fastapi,postgresql,pandas,plotly,huggingface,pytorch,uvicorn&perline=12&radius=25)
+![Data technologies](https://skills.syvixor.com/api/icons?i=python,fastapi,pandas,plotly,huggingface,pytorch,uvicorn&perline=12&radius=25)
 
 ### Tools
 
